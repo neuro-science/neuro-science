@@ -1,9 +1,9 @@
-# neuro_data_analysis
+#Neuro Data Analysis
 
-Neuro Data Analysis
 
-Welcome to the Neuro Data Analysis repository of Peng! 
+Welcome to Peng's Neuro Data Analysis repository!
 
-This repository is dedicated to organizing and performing analyses on neuroscience data. 
+This repository is dedicated to the analysis of neuroscience data.
 
-It is structured into folders, each representing specific analysis techniques (e.g. meg) or individual projects (e.g. prediction).
+It is organized into folders, each representing specific analysis techniques (e.g., MEG) or individual projects (e.g., prediction).
+
